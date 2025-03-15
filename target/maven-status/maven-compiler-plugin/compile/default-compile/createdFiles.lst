@@ -1,0 +1,4 @@
+com\MainApp.class
+com\model\Movie.class
+com\service\MovieService.class
+com\controller\MovieController.class

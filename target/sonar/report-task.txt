@@ -1,0 +1,6 @@
+projectKey=org.phase2:spring-rest-simple
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=org.phase2%3Aspring-rest-simple
+ceTaskId=d5f88186-db1b-498b-afd4-bdcd0cf23161
+ceTaskUrl=http://localhost:9000/api/ce/task?id=d5f88186-db1b-498b-afd4-bdcd0cf23161
